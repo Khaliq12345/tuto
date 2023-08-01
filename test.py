@@ -1,7 +1,7 @@
 from playwright.sync_api import sync_playwright
 import streamlit as st
 import os
-os.system('ls')
+os.system('pip install playwright')
 
 
 with sync_playwright() as p:
