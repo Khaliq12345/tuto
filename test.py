@@ -1,6 +1,8 @@
 from playwright.sync_api import sync_playwright
 import streamlit as st
 import os
+os.system('python3 venv workstation')
+os.system('source workstation/bin/activate')
 os.system('pip install playwright')
 os.system('playwright install')
 
