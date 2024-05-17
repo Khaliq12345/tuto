@@ -3,6 +3,6 @@ import os
 import hrequests
 import streamlit as st
 
-os.system("pip install hrequests[all]")
+os.system("sudo python -m pip install hrequests")
 
 st.write("Good")
