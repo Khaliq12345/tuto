@@ -1,2 +1,2 @@
-playwright==1.19.1
+hrequests
 streamlit==1.7.0
