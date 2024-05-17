@@ -1,6 +1,6 @@
 
 import os
-os.system("sudo python -m pip install hrequests")
+os.system("python -m pip install hrequests")
 
 import hrequests
 import streamlit as st
