@@ -1,2 +1,2 @@
-hrequests
+hrequests[all]
 streamlit==1.7.0
